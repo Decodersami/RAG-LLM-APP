@@ -23,6 +23,15 @@ To get started with the retrieval augmented generation app:
 4. Run the application using `npm start`.
 5. Access the application through the provided interface and start searching, retrieving, and generating content from PDF documents.
 
+   
+## Create Virtual Environment Steps:
+
+1. conda create -p venv python==3.10 -y
+2.  or y
+3. conda activate venv/
+4. pip install -r requirements.txt
+5. pip install ipykernel
+
 ## Dependencies
 
 - **LlamaIndex**: LlamaIndex is a powerful indexing tool designed for efficient search and retrieval of content from large document collections.
