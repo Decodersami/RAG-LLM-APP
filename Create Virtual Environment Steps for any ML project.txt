@@ -1,0 +1,7 @@
+#Create Virtual Environment Steps:
+
+1. conda create -p venv python==3.10 -y
+2.  or y
+3. conda activate venv/
+4. pip install -r requirements.txt
+5. pip install ipykernel
