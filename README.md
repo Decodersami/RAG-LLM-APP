@@ -37,6 +37,9 @@ To get started with the retrieval augmented generation app:
 - **LlamaIndex**: LlamaIndex is a powerful indexing tool designed for efficient search and retrieval of content from large document collections.
 - **OpenAI-Indexing**: OpenAI-Indexing provides advanced capabilities for indexing and querying large datasets, enabling contextually relevant content generation.
 
+## Data
+Store your PDF which you want to retriev.
+
 ## Contribution
 
 Contributions to the project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
